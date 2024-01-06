@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gerald Torto</h1>
+![MasterHead](https://github.com/Gerald-hash/Gerald-hash/assets/154639251/8cc327f1-b691-48e6-90a8-b7ffd3346330)
+
+<h1 align="center">Hi 
+👋, I'm Gerald Torto</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="codding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mlsdy3hetxbu8pl10bsd0v3jmq1vmnn6npc0wqaz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerald-hash&label=Profile%20views&color=0e75b6&style=flat" alt="gerald-hash" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerald-hash" alt="gerald-hash" /></a> </p>
 
 - 🌱 I’m currently learning **Front End Languages, Javascript**
 
